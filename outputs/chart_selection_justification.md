@@ -44,5 +44,5 @@
 
 ---
 
-## ✅ Business Impact
+##  Business Impact
 By aligning chart types with business questions, the dashboard ensures leadership can quickly interpret patterns, compare performance, and act on insights without confusion.
