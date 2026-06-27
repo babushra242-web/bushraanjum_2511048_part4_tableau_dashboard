@@ -24,7 +24,7 @@
 
 ---
 
-## 🚚 Shipping Performance View
+##  Shipping Performance View
 **Chart Type:** Bar Chart or Table  
 **Reasoning:** Bar charts show differences in shipping mode performance. Tables allow detailed breakdowns of delivery delays by bucket, providing operational clarity.
 
